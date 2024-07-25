@@ -21,9 +21,7 @@ This repository contains a Python notebook that models and analyzes the longitud
 7. **[Redundancy Analysis](#redundancy-analysis)**
 8. **[Reachability Analysis](#reachability-analysis)**
 9. **[Installation and Usage](#installation-and-usage)**
-10. **[License](#license)**
-11. **[Contributing](#contributing)**
-12. **[Acknowledgements](#acknowledgements)**
+10. **[Contact](#Contact)**
 
 ## Model Definition
 
