@@ -126,3 +126,8 @@ To run the notebook, ensure you have the following Python libraries installed:
 - `scipy`
 - `matplotlib`
 
+## Contact
+
+If you have any questions or feedback, feel free to reach out to me at:
+- Email: lechiffremel@gmail.com
+- GitHub: [michel-emel](https://github.com/michel-emel)
